@@ -1,3 +1,4 @@
-print("hello everybody!")
-print("also this is a test...")
-print("whatever")
+def myfunc(x):
+    return x+1
+
+
